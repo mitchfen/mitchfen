@@ -4,7 +4,6 @@ PROGRAM-ID. GREETING.
 AUTHOR. MITCHELL FENNER.
 
 PROCEDURE DIVISION.
-DISPLAY "Hi there!".
-DISPLAY "You can checkout my projects here or my links at mitchfen.xyz".
+DISPLAY "Hi there! 👋".
 STOP RUN.
 ```
