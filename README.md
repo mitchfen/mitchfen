@@ -5,6 +5,6 @@ AUTHOR. MITCHELL FENNER.
 
 PROCEDURE DIVISION.
 DISPLAY "Hi there!".
-DISPLAY "Check out some of my projects, or my website mitchfen.xyz".
+DISPLAY "Welcome to my GitHub page 🙂".
 STOP RUN.
 ```
