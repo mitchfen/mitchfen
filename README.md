@@ -1,8 +1,7 @@
 ### Hi, I'm Mitchell Fenner 👋
 
-As a Senior Cloud Operations Engineer, my work centers around Azure, Kubernetes, release management, Microsoft Sentinel, and automating everything. 
-When I'm not working I'm often building my [homelab](https://github.com/mitchfen/homelab).
-
+My work centers around Azure, Kubernetes, release management, Microsoft Sentinel, and automating everything.   
+When I'm not working I'm often building my [homelab](https://github.com/mitchfen/homelab) or climbing.
 
 ### 🔧 Tech I work with
 
