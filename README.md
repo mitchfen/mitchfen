@@ -3,8 +3,6 @@
 My work centers around Azure, Kubernetes, release management, Microsoft Sentinel, and automating everything.   
 When I'm not working I'm often building my [homelab](https://github.com/mitchfen/homelab) or climbing.
 
-### 🔧 Tech I work with
-
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=icloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
@@ -26,7 +24,7 @@ When I'm not working I'm often building my [homelab](https://github.com/mitchfen
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 
-### 🏅 Certifications
+#### 🏅 Certifications
 
 - **Certified Kubernetes Administrator** (CKA)
 - **Azure Solutions Architect Expert** (AZ-305)
@@ -36,7 +34,3 @@ When I'm not working I'm often building my [homelab](https://github.com/mitchfen
 - **Security, Compliance & Identity Fundamentals** (SC-900)
 - **Azure AI Fundamentals** (AI-900)
 - **Azure Fundamentals** (AZ-900)
-
----
-
-**See my [LinkedIn](https://linkedin.com/in/mitchfen) for more.**
