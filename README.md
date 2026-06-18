@@ -23,7 +23,7 @@ When I'm not working I'm often building my [homelab](https://github.com/mitchfen
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
-
+<!--
 #### 🏅 Certifications
 
 - **Certified Kubernetes Administrator** (CKA)
@@ -34,3 +34,5 @@ When I'm not working I'm often building my [homelab](https://github.com/mitchfen
 - **Security, Compliance & Identity Fundamentals** (SC-900)
 - **Azure AI Fundamentals** (AI-900)
 - **Azure Fundamentals** (AZ-900)
+
+-->
