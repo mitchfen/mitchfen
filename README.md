@@ -1,7 +1,7 @@
 ### Hi, I'm Mitchell Fenner 👋
 
 My work centers around Azure, Kubernetes, release management, Microsoft Sentinel, and automating everything.   
-When I'm not working I'm often building my [homelab](https://github.com/mitchfen/homelab) or climbing.
+When I'm not working I'm often building my [homelab](https://github.com/mitchfen/homelab/blob/main/README.md) or climbing.
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=icloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
