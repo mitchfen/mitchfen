@@ -1,3 +1,8 @@
+> I must hold in balance the sense of the futility of effort and the sense of the necessity to struggle.  
+> \- F. Scott Fitzgerald
+
+<!--
+
 ### Hi, I'm Mitchell Fenner 👋
 
 My work centers around Azure, Kubernetes, release management, Microsoft Sentinel, and automating everything.   
@@ -24,7 +29,6 @@ When I'm not working I'm often building my [homelab](https://github.com/mitchfen
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
-<!--
 #### 🏅 Certifications
 
 - **Certified Kubernetes Administrator** (CKA)
