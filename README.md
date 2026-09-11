@@ -1,2 +1,4 @@
-> I must hold in balance the sense of the futility of effort and the sense of the necessity to struggle.  
-> \- F. Scott Fitzgerald
+> Great fleas have little fleas upon their backs to bite 'em,  
+> And little fleas have lesser fleas, and so ad infinitum.
+
+
